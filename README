@@ -1,0 +1,5 @@
+This git repository stores the themes we use for phpbb,
+including both upstream and local ones.
+
+Note that prosilver is the most technically advanced one, but tmw3 is the
+default, and that tmw3 is originally based on subsilver2.
