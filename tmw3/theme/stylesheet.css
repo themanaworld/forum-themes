@@ -212,7 +212,8 @@ p.searchbarreg {
 }
 
 p.forumdesc {
-	padding-bottom: 4px;
+	padding-bottom: 0;
+	margin-bottom: 0;
 }
 
 p.topicauthor {
@@ -411,7 +412,7 @@ a.forumlink {
 	color: #6E100C;
 	font-weight: bold;
 	font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
-	font-size: 1.2em;
+	font-size: 1.4em;
 }
 
 a.topictitle {
